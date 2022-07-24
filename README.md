@@ -1,11 +1,10 @@
 # Deliveroo-Clone
 A clone of the app Deliveroo using React native, redux, tailwind css, sanity and so much more..
 
-#Home Screen
-
+# Home Screen
 <img src="./assets/292767013_1058356888138759_1283593549973690909_n.jpg" alt="drawing" width="200"/>
 
-#Restaurant Screen
+# Restaurant Screen
 
 <img src="./assets/293586748_306202834994702_1812463041789747838_n.jpg" alt="drawing" width="200"/>
 <img src="./assets/293803014_626345168884887_557738328140163552_n.jpg" alt="drawing" width="200"/>
